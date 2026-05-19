@@ -1,0 +1,1 @@
+print("Pyry to ziemniaki tylko w Poznaniu")
