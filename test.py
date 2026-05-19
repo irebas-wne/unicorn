@@ -1,0 +1,1 @@
+print("Niech Pan przestanie bo się kartoflem zakrztuszę")
